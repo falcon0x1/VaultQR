@@ -29,7 +29,7 @@
 
 | Secure Vault | Neon Generator | Cyber Scanner |
 |:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400?text=Vault+Unlock" width="200" /> | <img src="https://via.placeholder.com/200x400?text=Generator" width="200" /> | <img src="https://via.placeholder.com/200x400?text=Scanner" width="200" /> |
+| <img src="docs/screenshots/vault.png" width="200" /> | <img src="docs/screenshots/generator.png" width="200" /> | <img src="docs/screenshots/scanner.png" width="200" /> |
 | *Biometric Unlock* | *Custom "Eye" Styling* | *Fast Batch Scanning* |
 
 ---
