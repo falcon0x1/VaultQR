@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# VaultQR
+# 𓅃 Root@𓅃:~/0x1# VaultQR
 
 ![Version](https://img.shields.io/badge/version-1.0.0-00E5FF?style=for-the-badge&logo=android&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-AES--256-FF0055?style=for-the-badge&logo=auth0&logoColor=white)
@@ -16,15 +17,6 @@
 
 ---
 
-### 𓆲 Identity
-```bash
-root@𓅃:~/0x1# 𓆲₀ₓ₁𓅃⁰ˣ¹ ⬢ 𓅃 0x1 ⌘ 𓆲 0x1
-║ 𓅈 𓆲 𓅉 𓅂 𓅆 𓅇 𖤍 𓆲 𓅓 🐦‍🔥 𓅃 🪽 🪶 ║
-
-```
-
----
-
 ## Mission Statement
 
 **VaultQR** bridges the gap between **Cybersecurity** and **Modern Android Development**. It is a secure, offline, and biometric-protected vault for sensitive QR codes, designed with a **Cyberpunk Glassmorphism** aesthetic.
@@ -36,8 +28,8 @@ root@𓅃:~/0x1# 𓆲₀ₓ₁𓅃⁰ˣ¹ ⬢ 𓅃 0x1 ⌘ 𓆲 0x1
 ## Visual Demo
 
 | Secure Vault | Neon Generator | Cyber Scanner |
-| --- | --- | --- |
-| <img src="https://www.google.com/search?q=https://via.placeholder.com/200x400%3Ftext%3DVault%2BUnlock" width="200" /> | <img src="https://www.google.com/search?q=https://via.placeholder.com/200x400%3Ftext%3DGenerator" width="200" /> | <img src="https://www.google.com/search?q=https://via.placeholder.com/200x400%3Ftext%3DScanner" width="200" /> |
+|:---:|:---:|:---:|
+| <img src="https://via.placeholder.com/200x400?text=Vault+Unlock" width="200" /> | <img src="https://via.placeholder.com/200x400?text=Generator" width="200" /> | <img src="https://via.placeholder.com/200x400?text=Scanner" width="200" /> |
 | *Biometric Unlock* | *Custom "Eye" Styling* | *Fast Batch Scanning* |
 
 ---
@@ -55,12 +47,11 @@ This project follows **Modern Android Development (MAD)** standards and Clean Ar
 <summary><strong>Click to view Security Implementation (AES-256)</strong></summary>
 
 ### Encryption Strategy
-
 To ensure military-grade security for stored data:
 
-1. **Key Generation:** A unique 256-bit key is generated and stored in the **Android Keystore System** (hardware-backed).
-2. **Encryption:** Data is encrypted using `AES/GCM/NoPadding`.
-3. **Biometrics:** The decryption key is locked behind `BiometricPrompt`. It can *only* be accessed after a successful fingerprint/face match.
+1.  **Key Generation:** A unique 256-bit key is generated and stored in the **Android Keystore System** (hardware-backed).
+2.  **Encryption:** Data is encrypted using `AES/GCM/NoPadding`.
+3.  **Biometrics:** The decryption key is locked behind `BiometricPrompt`. It can *only* be accessed after a successful fingerprint/face match.
 
 ```kotlin
 // Snippet: Accessing the SecretKey
@@ -123,7 +114,7 @@ cd VaultQR
 
 I specialize in building secure, resilient systems. This project demonstrates my ability to combine **Offensive Security** knowledge with **Defensive Programming**.
 
-**[LinkedIn](https://www.google.com/search?q=%23)** • **[Email](mailto:your-email@example.com)** • **[GitHub](https://github.com/falcon0x1)**
+**[LinkedIn](https://www.linkedin.com/in/mahmoud-elshorbagy-b77b38234/)** • **[Email](mailto:falcon0x1.sec@gmail.com)** • **[GitHub](https://github.com/falcon0x1)**
 
 ---
 
